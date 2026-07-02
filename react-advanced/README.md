@@ -8,7 +8,7 @@ We are breaking down advanced React concepts into manageable, hands-on sessions.
 
 ### 📚 Sessions
 
-- **[Session 1: Introduction to Advanced Concepts](./src/Session_1/Session_1.md)**
+- **[Session 1: Introduction to Advanced Concepts](./src/Session_1/README.md)**
 
 *(More sessions will be added here as we progress through the module!)*
 

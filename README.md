@@ -6,7 +6,7 @@ Welcome to the TOPS Assignments repository. This directory houses all the course
 
 The assignments are organized into different topic-based modules. Click on a module below to view its specific tasks, sessions, and code:
 
-- 🚀 **[React Advanced](./react-advanced/React_Advanced.md)**: Explore advanced React concepts like the Context API, Custom Hooks, and scalable component architecture.
+- 🚀 **[React Advanced](./react-advanced/README.md)**: Explore advanced React concepts like the Context API, Custom Hooks, and scalable component architecture.
 
 *(Additional modules will be added here as the curriculum progresses.)*
 
