@@ -9,6 +9,8 @@ We are breaking down advanced React concepts into manageable, hands-on sessions.
 ### 📚 Sessions
 
 - **[Session 1: Introduction to Advanced Concepts](./src/Session_1)**
+- **[Session 2: Custom Hooks](./src/Session_2)**
+- **[Session 3: Custom Hooks (Part 2)](./src/Session_3)**
 
 *(More sessions will be added here as we progress through the module!)*
 
