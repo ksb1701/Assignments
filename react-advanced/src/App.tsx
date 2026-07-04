@@ -1,9 +1,9 @@
-import FlipkartProductList from "./Session_1/FlipkartProductList";
+import SpotifyPlaylists from "./Session_2/SpotifyPlaylists";
 
 export default function App() {
   return (
     <>
-      <FlipkartProductList />
+      <SpotifyPlaylists />
     </>
   );
 }
