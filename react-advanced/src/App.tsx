@@ -1,9 +1,9 @@
-import SearchMovies from "./Session_3/SearchMovies";
+import BasicCounter from "./Session_4/BasicCounter";
 
 export default function App() {
   return (
     <>
-      <SearchMovies />
+      <BasicCounter />
     </>
   );
 }
