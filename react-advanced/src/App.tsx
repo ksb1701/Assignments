@@ -1,9 +1,9 @@
-import BasicCounter from "./Session_4/BasicCounter";
+import PlaylistManager from "./Session_5/PlaylistManager";
 
 export default function App() {
   return (
     <>
-      <BasicCounter />
+      <PlaylistManager />
     </>
   );
 }
