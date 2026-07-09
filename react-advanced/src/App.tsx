@@ -1,9 +1,9 @@
-import Session7App from "./Session_7/Session7App";
+import Session8App from "./Session_8/Session8App";
 
 export default function App() {
   return (
     <>
-      <Session7App />
+      <Session8App />
     </>
   );
 }
