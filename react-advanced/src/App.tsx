@@ -1,9 +1,9 @@
-import Task4 from "./Session_6/Task4";
+import Session7App from "./Session_7/Session7App";
 
 export default function App() {
   return (
     <>
-      <Task4 />
+      <Session7App />
     </>
   );
 }
