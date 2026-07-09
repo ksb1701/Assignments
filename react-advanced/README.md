@@ -11,6 +11,10 @@ We are breaking down advanced React concepts into manageable, hands-on sessions.
 - **[Session 1: Introduction to Advanced Concepts](./src/Session_1)**
 - **[Session 2: Custom Hooks](./src/Session_2)**
 - **[Session 3: Custom Hooks (Part 2)](./src/Session_3)**
+- **[Session 4: useReducer Hook](./src/Session_4)**
+- **[Session 5: useReducer Hook (Part 2)](./src/Session_5)**
+- **[Session 6: useMemo & useCallback Hooks](./src/Session_6)**
+- **[Session 7: Context API Deep Dive (Part 1)](./src/Session_7)**
 
 *(More sessions will be added here as we progress through the module!)*
 
