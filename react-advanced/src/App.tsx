@@ -1,11 +1,9 @@
-import firebaseApp from "./Session_9/firebase";
+import Session10App from "./Session_10/Session10App";
 
 export default function App() {
-  console.log("Firebase App Initialized: ", firebaseApp);
-
   return (
     <>
-      0
+      <Session10App />
     </>
   );
 }
