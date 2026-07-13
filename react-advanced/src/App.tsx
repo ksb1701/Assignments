@@ -1,9 +1,11 @@
-import Session8App from "./Session_8/Session8App";
+import firebaseApp from "./Session_9/firebase";
 
 export default function App() {
+  console.log("Firebase App Initialized: ", firebaseApp);
+
   return (
     <>
-      <Session8App />
+      0
     </>
   );
 }
