@@ -1,9 +1,9 @@
-import Session10App from "./Session_10/Session10App";
+import Session11App from "./Session_11/Session11App";
 
 export default function App() {
   return (
     <>
-      <Session10App />
+      <Session11App />
     </>
   );
 }
