@@ -15,6 +15,12 @@ We are breaking down advanced React concepts into manageable, hands-on sessions.
 - **[Session 5: useReducer Hook (Part 2)](./src/Session_5)**
 - **[Session 6: useMemo & useCallback Hooks](./src/Session_6)**
 - **[Session 7: Context API Deep Dive (Part 1)](./src/Session_7)**
+- **[Session 8: Context API Deep Dive (Part 2)](./src/Session_8)**
+- **[Session 9: Firebase Introduction](./src/Session_9)**
+- **[Session 10: Firebase Authentication (Part 1)](./src/Session_10)**
+- **[Session 11: Firebase Authentication (Part 2)](./src/Session_11)**
+- **[Session 12: Firestore CRUD Operations (Part 1)](./src/Session_12)**
+- **[Session 13: Firestore CRUD Operations (Part 2)](./src/Session_13)**
 
 *(More sessions will be added here as we progress through the module!)*
 
