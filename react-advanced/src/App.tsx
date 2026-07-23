@@ -1,9 +1,13 @@
-import TaskManager from "./Session_12/TaskManager";
+import { Provider } from "react-redux";
+import { store } from "./Session_14/store";
+import PlaylistManager from "./Session_14/PlaylistManager";
 
 export default function App() {
   return (
     <>
-      <TaskManager />
+      <Provider store={store}>
+        <PlaylistManager />
+      </Provider>
     </>
   );
 }
