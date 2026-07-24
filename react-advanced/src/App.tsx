@@ -1,12 +1,12 @@
 import { Provider } from "react-redux";
-import { store } from "./Session_15/store";
-import Playlist from "./Session_15/Playlist";
+import { store } from "./Session_16/store";
+import RestaurantList from "./Session_16/RestaurantList";
 
 export default function App() {
   return (
     <>
       <Provider store={store}>
-        <Playlist />
+        <RestaurantList />
       </Provider>
     </>
   );
