@@ -21,8 +21,13 @@ We are breaking down advanced React concepts into manageable, hands-on sessions.
 - **[Session 11: Firebase Authentication (Part 2)](./src/Session_11)**
 - **[Session 12: Firestore CRUD Operations (Part 1)](./src/Session_12)**
 - **[Session 13: Firestore CRUD Operations (Part 2)](./src/Session_13)**
-
-*(More sessions will be added here as we progress through the module!)*
+- **[Session 14: Redux Fundamentals](./src/Session_14)**
+- **[Session 15: Redux State Flow](./src/Session_15)**
+- **[Session 16: Async Operations in Redux (Thunk)](./src/Session_16)**
+- **[Session 17: Form Handling with Formik and Yup](./src/Session_17)**
+- **[Session 18: Environment Variables & Configuration](./src/Session_18)**
+- **[Session 19: Mini Project: Task Manager / Playlist App](./src/Session_19)**
+- **[Session 20: Mini Project Deployment & Review: Movie Watchlist](./src/Session_20)**
 
 ## Getting Started
 
