@@ -1,7 +1,7 @@
-import Session19App from "./Session_19/Session19App";
+import Session20App from "./Session_20/Session20App";
 
 export default function App() {
   return (
-    <Session19App />
+    <Session20App />
   );
 }
