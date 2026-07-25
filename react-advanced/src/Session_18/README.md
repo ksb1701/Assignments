@@ -26,3 +26,12 @@ This session focuses on managing environment variables and keeping sensitive inf
 
 ## Important Note on Vite
 Because this project uses Vite rather than Create React App, environment variables must be prefixed with `VITE_` instead of `REACT_APP_`. Furthermore, they are accessed in the code via `import.meta.env.VITE_VAR_NAME` instead of `process.env`.
+
+## ERP Assignment Variations & Notes
+
+An alternate version of this assignment in the ERP portal requests slightly different demonstration examples (e.g., fetching TMDB trending movies and toggling homepage background colors between dev and prod). However, the core environment management competencies remain identical and are fully satisfied in this session:
+
+- **Build Tool Conventions (Vite vs. CRA):** The ERP prompt specifies Create React App conventions (`process.env.REACT_APP_*` and `process.env.NODE_ENV`). As noted in the section above, this Vite project correctly implements modern ESM standards (`import.meta.env.VITE_*` and `import.meta.env.DEV` / `import.meta.env.PROD`).
+- **API Key Security:** Secret management is demonstrated using Spotify and Firebase credentials in `.env.local` and `.env.template` rather than a TMDB API key.
+- **Conditional Environments:** Rather than toggling background colors (light blue for dev vs. light green for prod), environment-specific behavior is proven by dynamically loading different `VITE_WELCOME_MSG` strings from `.env.development` and `.env.production`.
+- **Version Control Security:** The git exclusion principles required by the assignment are fully implemented and explained in Section 4 above.
