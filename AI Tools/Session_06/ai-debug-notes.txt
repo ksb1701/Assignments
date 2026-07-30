@@ -1,0 +1,11 @@
+Error encountered:
+When implementing the hero section, the flexbox layout resulted in the image overflowing the container and breaking the page width on mobile devices.
+
+ChatGPT Prompt:
+"My React hero section is using flexbox, but the image is stretching outside its container and breaking the mobile layout. Here is my CSS: ... How do I fix this?"
+
+Explanation received:
+The issue happens because the `<img>` tag doesn't inherently scale down to fit a flex container by default unless you restrict its width. Without `width: 100%`, the image tries to render at its natural resolution, which pushes the flex container wider than the screen.
+
+Fix implemented:
+Added `width: 100%;` and `max-width: 100%;` to the `.hero-image` class to ensure the image scales down responsively without exceeding its parent container's width. Also added `box-sizing: border-box;` to the universal selector to prevent padding from affecting total width.
