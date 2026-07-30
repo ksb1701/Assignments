@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flipkart-style Product Listing</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="logo">Logo</div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search for products, brands and more">
+            <button>Search</button>
+        </div>
+        <nav class="user-actions">
+            <a href="#">Login</a>
+            <a href="#">Cart</a>
+        </nav>
+    </header>
+
+    <!-- Main Layout -->
+    <main style="display: flex;">
+        <!-- Sidebar / Filters -->
+        <aside class="filters" style="width: 250px; padding: 20px;">
+            <h2>Filters</h2>
+            <div class="filter-category">Categories</div>
+            <div class="filter-price">Price Range</div>
+        </aside>
+
+        <!-- Product Grid -->
+        <section class="product-grid" style="flex: 1; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; padding: 20px;">
+            <div class="product-card" style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+                <div style="height: 150px; background: #eee; margin-bottom: 10px;">Product Image Placeholder</div>
+                <h3>Product Title</h3>
+                <p>Price: $99</p>
+            </div>
+            <!-- More products would go here -->
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer style="background: #333; color: white; padding: 20px; margin-top: 40px; text-align: center;">
+        <div class="footer-links">
+            <a href="#" style="color: white; margin: 0 10px;">About Us</a>
+            <a href="#" style="color: white; margin: 0 10px;">Contact</a>
+            <a href="#" style="color: white; margin: 0 10px;">Terms of Use</a>
+        </div>
+        <p>&copy; 2026 E-commerce Store</p>
+    </footer>
+</body>
+</html>

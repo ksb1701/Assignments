@@ -1,0 +1,82 @@
+<!-- 
+PROMPT USED:
+"Write the HTML and CSS for a responsive navigation bar for a Myntra-style fashion app. It must include links for 'Home', 'Explore', 'Cart', and 'Profile'. 
+Constraint: It must be fully responsive. On desktop, show the links horizontally next to the logo. On mobile, use a bottom navigation bar layout where the links are anchored to the bottom of the screen."
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Navbar</title>
+    <style>
+        body { margin: 0; font-family: Arial, sans-serif; }
+        
+        /* Desktop Navbar */
+        .desktop-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 30px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .desktop-nav .logo { font-weight: bold; font-size: 24px; color: #ff3f6c; }
+        .desktop-nav .links a {
+            margin-left: 20px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+        /* Mobile Navbar - Hidden on Desktop by default */
+        .mobile-nav {
+            display: none;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #fff;
+            box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+            justify-content: space-around;
+            padding: 10px 0;
+            z-index: 1000;
+        }
+        .mobile-nav a {
+            text-decoration: none;
+            color: #333;
+            text-align: center;
+            font-size: 14px;
+            padding: 10px;
+        }
+
+        /* Responsive Media Query */
+        @media (max-width: 768px) {
+            .desktop-nav .links { display: none; } /* Hide desktop links */
+            .mobile-nav { display: flex; } /* Show bottom mobile nav */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Desktop Navbar -->
+    <nav class="desktop-nav">
+        <div class="logo">FashionApp</div>
+        <div class="links">
+            <a href="#">Home</a>
+            <a href="#">Explore</a>
+            <a href="#">Cart</a>
+            <a href="#">Profile</a>
+        </div>
+    </nav>
+
+    <!-- Mobile Bottom Navbar -->
+    <nav class="mobile-nav">
+        <a href="#">Home</a>
+        <a href="#">Explore</a>
+        <a href="#">Cart</a>
+        <a href="#">Profile</a>
+    </nav>
+
+</body>
+</html>
