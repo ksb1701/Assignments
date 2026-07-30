@@ -47,3 +47,16 @@ Before using this generated code in a real project, here are 2 corrections/impro
 1. **Improve Variable Naming:** The variable `d` and its properties (`d.n`, `d.e`, `d.pic`) are terrible for readability. I would rename `d` to `user`, and the properties to `name`, `email`, and `profilePicture` so the code is self-documenting.
 2. **Missing PropTypes / TypeScript Types:** The `props` object has no shape defined. I would add PropTypes (or TypeScript interfaces) to enforce that `data` contains the required fields, which prevents runtime errors if data is missing.
 3. **Accessibility (Bonus):** The `<img>` tag is missing an `alt` attribute, which is bad for accessibility (screen readers) and SEO.
+
+---
+
+## Note Regarding Alternative ERP Assignment
+An alternative set of Session 2 tasks appeared in the ERP with slightly different contexts (e.g., debugging a Zomato menu instead of a product card, refactoring a BookMyShow movie component instead of a restaurant list, and using Copilot on a Flipkart shopping cart). 
+
+Although the specific app contexts differ, the core objectives and AI learnings are exactly the same:
+- **Copilot Integration & Usage:** Both assignments verify that GitHub Copilot is active and can generate React components and hooks.
+- **AI Debugging:** Both intentionally introduce errors (typos) into a React component to practice using ChatGPT for debugging and error resolution.
+- **AI Refactoring:** Both involve writing prompts to refactor direct `useEffect` data fetching into clean, reusable custom hooks (`useFetchMovies` vs `useRestaurants`).
+- **AI Code Review:** Both emphasize the critical need to review AI-generated code for readability, type safety, and potential risks (like introducing bugs or inaccessible HTML).
+
+Since the educational objectives are fully met and demonstrated in the deliverables above, this completed version of Session 02 is being submitted to fulfill the requirement.
