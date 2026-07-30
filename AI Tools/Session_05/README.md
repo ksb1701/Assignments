@@ -35,12 +35,12 @@ In the end, finding the right phone comes down to what you care about most—whe
 
 ---
 
-## Note Regarding Alternative ERP Assignment
-An alternative set of Session 5 tasks appeared in the ERP with slightly different prompts (e.g., generating meta tags for wireless headphones instead of a general electronics store, writing a Zomato description, generating Myntra fashion alt texts, and clustering keywords for a blog outline). 
+## Note Regarding Alternative ERP Assignments
+Multiple alternative sets of Session 5 tasks have appeared in the ERP due to a glitch, featuring slightly different contexts. For example, some variations asked for meta tags for wireless earbuds or headphones instead of a general electronics store, food blog intros and Myntra denim jacket descriptions instead of tech products, or clustering food delivery keywords instead of a tech blog outline.
 
-Although the specific topics differ, the core SEO and AI content generation learnings are identical:
-- **SEO Meta Tags & Alt Text:** Both versions require generating and properly implementing meta titles, descriptions, keywords, and descriptive alt texts.
-- **Content Generation & Editing:** Both require generating AI text, checking for plagiarism/bias, and manually rewriting the content to ensure uniqueness and a neutral tone.
-- **Keyword Clustering:** Both assignments test the concept of grouping related search terms to build topical authority and improve organic reach.
+Despite the rotating subject matter, the core SEO and AI content generation learnings remain completely identical across all variations:
+- **SEO Meta Tags & Alt Text:** Every version requires generating and properly implementing meta titles, descriptions, keywords, and descriptive image alt texts.
+- **Content Generation & Editing:** Every version requires generating AI text, checking for plagiarism/bias (using tools like Grammarly/Quetext), and manually rewriting the content to ensure uniqueness and a neutral tone.
+- **Keyword Clustering:** Every version tests the concept of grouping related search terms to build topical authority and improve organic reach.
 
-Since the educational objectives are fully met and demonstrated in the deliverables above, this completed version of Session 05 is being submitted to fulfill the requirement.
+Since the educational objectives are universally met and demonstrated in the deliverables above, this completed version of Session 05 is being submitted to fulfill the requirement.
