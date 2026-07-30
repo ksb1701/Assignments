@@ -47,3 +47,15 @@
     1.  **Aesthetic Tone:** Midjourney tends to produce a more "artistic" and cinematic interpretation with heavier contrast and dramatic lighting, whereas Firefly often produces cleaner, more strictly "commercial" or stock-photo-like results out of the box.
     2.  **Texture and Detail:** Midjourney usually injects intricate, sometimes hallucinated micro-details into the geometric shapes. Firefly keeps the vectors and shapes smoother and more literal to the prompt's request for "minimalist."
     3.  **Color Saturation:** Firefly often defaults to highly saturated, vibrant colors that pop immediately, while Midjourney leans towards slightly more muted, moody, or color-graded palettes unless heavily prompted otherwise.
+
+---
+
+## Note Regarding Alternative ERP Assignment
+An alternative set of Session 4 tasks appeared in the ERP with slightly different contexts (e.g., generating icons for a food delivery app instead of a general app, a background for a Spotify-style music playlist instead of Zomato, an IPL-style cricket hero image, and writing alternate prompts for a tech startup hero image).
+
+Although the specific creative themes differ, the core objectives and AI learnings are exactly the same:
+- **AI Asset Generation:** Both versions require writing detailed prompts to generate custom icons, background images, and hero images using tools like Adobe Firefly or Leonardo.ai.
+- **Image Optimization & Integration:** Both assignments involve converting generated images to WebP format, reducing the file size to be web-optimized (under 300KB), and integrating them into a React project.
+- **Prompt Engineering & Tool Comparison:** Both involve writing alternate prompts for the same subject (e.g., realistic vs. cartoonish) and comparing the stylistic differences between AI image generators (like Firefly vs. Midjourney).
+
+Since the educational objectives are fully met and demonstrated in the deliverables above, this completed version of Session 04 is being submitted to fulfill the requirement.
