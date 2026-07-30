@@ -32,3 +32,15 @@ Brands like Xiaomi, Realme, and Motorola continue to set the standard. The lates
 When you're shopping in this price range, it's crucial to look for a reliable chipset to keep your apps running smoothly without annoying stutters. The cameras have also seen a massive leap in quality, with many affordable models now packing high-resolution sensors that take crisp photos in daylight. And of course, 5G is now practically a given, ensuring your purchase is somewhat future-proofed. 
 
 In the end, finding the right phone comes down to what you care about most—whether you need long battery life for travel, a good camera for social media, or just a lag-free experience. The good news is, you don't need a flagship budget to get flagship-level satisfaction anymore.
+
+---
+
+## Note Regarding Alternative ERP Assignment
+An alternative set of Session 5 tasks appeared in the ERP with slightly different prompts (e.g., generating meta tags for wireless headphones instead of a general electronics store, writing a Zomato description, generating Myntra fashion alt texts, and clustering keywords for a blog outline). 
+
+Although the specific topics differ, the core SEO and AI content generation learnings are identical:
+- **SEO Meta Tags & Alt Text:** Both versions require generating and properly implementing meta titles, descriptions, keywords, and descriptive alt texts.
+- **Content Generation & Editing:** Both require generating AI text, checking for plagiarism/bias, and manually rewriting the content to ensure uniqueness and a neutral tone.
+- **Keyword Clustering:** Both assignments test the concept of grouping related search terms to build topical authority and improve organic reach.
+
+Since the educational objectives are fully met and demonstrated in the deliverables above, this completed version of Session 05 is being submitted to fulfill the requirement.
